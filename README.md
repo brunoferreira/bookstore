@@ -1,6 +1,10 @@
 # Bookstore
 
 
+## 📄 Diagrama de classes
+
+
+<img src="diagram.png" alt="diagram">
 
 
 ## ☕ Como usar
@@ -399,9 +403,3 @@ Bookstore:
 <img src="4.png" alt="image 4">
 <img src="5.png" alt="image 5">
 <img src="6.png" alt="image 6">
-
-
-## 📄 Diagrama de classes
-
-
-<img src="diagram.png" alt="diagram">
