@@ -9,7 +9,7 @@ class Product:
 
 class Book(Product):
     
-    def __init__(self, title, author, genre, edition, publisher, sell_price, buy_price) :
+    def __init__(self, title, author, genre, edition, publisher, sell_price, buy_price):
         tax = self.calculate_tax(genre, sell_price, buy_price)
         super().__init__(sell_price, buy_price, tax)
         self.parameters['title'] = title
